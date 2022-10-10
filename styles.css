@@ -4,5 +4,6 @@ body {
 
 h1 {
     text-align: center;
-    color: red;
+    color: blue;
+    font-size: 150px;
 }
