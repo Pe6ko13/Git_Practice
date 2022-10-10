@@ -1,1 +1,1 @@
-alert('Please Dont touch!');
+alert('Please Dont touch');
