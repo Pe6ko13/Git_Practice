@@ -7,3 +7,7 @@ h1 {
     color: blue;
     font-size: 150px;
 }
+
+p {
+    text-align: center;
+}
